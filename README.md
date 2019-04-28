@@ -1,2 +1,2 @@
-# IBMCApSTONE
-IBM CApstone project
+# Internity Presentation
+1) Linear Regression
